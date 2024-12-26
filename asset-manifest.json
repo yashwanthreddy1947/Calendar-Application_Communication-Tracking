@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calendar-Application_Communication-Tracking/static/css/main.e799aee0.css",
+    "main.js": "/Calendar-Application_Communication-Tracking/static/js/main.3e640c91.js",
+    "index.html": "/Calendar-Application_Communication-Tracking/index.html",
+    "main.e799aee0.css.map": "/Calendar-Application_Communication-Tracking/static/css/main.e799aee0.css.map",
+    "main.3e640c91.js.map": "/Calendar-Application_Communication-Tracking/static/js/main.3e640c91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e799aee0.css",
+    "static/js/main.3e640c91.js"
+  ]
+}
